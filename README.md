@@ -10,6 +10,16 @@
 <a href="https://twitter.com/vijaygehlot208"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/vijaygehlot208/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/instagram.png" width="40" /></a>
 
+<h3>Languages & Tools 💻</h3>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
 <h3>What I do? 👨‍💻</h3>
 <details>
 <summary>Frontend Develoer 💻</summary>
@@ -84,5 +94,4 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-[![Vijay's Github Stats](https://github-readme-stats.vercel.app/api?username=vijaygehlot&show_icons=true&count_private=true)](https://github.com/vijaygehlot/vijaygehlot/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygehlot&show_icons=true&layout=compact&theme=vue)](https://github.com/vijaygehlot/github-readme-stats)
