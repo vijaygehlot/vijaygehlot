@@ -1,5 +1,3 @@
-<img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/banner.png" />
-
 <h1>Hi, I am <a href="https://github.com/vijaygehlot">Vijay</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/vijaygehlot/vijaygehlot/blob/master/my_image.JPG" width="230" />
 
