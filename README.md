@@ -94,4 +94,5 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
+[![Vijay Gehlot's github stats](https://github-readme-stats.vercel.app/api?username=vijaygehlot)](https://github.com/vijaygehlot/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygehlot&show_icons=true&layout=compact&theme=vue)](https://github.com/vijaygehlot/github-readme-stats)
