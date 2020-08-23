@@ -1,4 +1,4 @@
-<h1>Hi, I am <a href="https://github.com/vijaygehlot">Vijay</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I am <a href="https://github.com/vijaygehlot">Vijay Gehlot</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/vijaygehlot/vijaygehlot/blob/master/my_image.JPG" width="230" />
 
 <a href="https://www.linkedin.com/in/vijay-gehlot-669358120"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/linkedin.png" width="40" /></a>
