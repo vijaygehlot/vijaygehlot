@@ -81,7 +81,7 @@
 <summary>What do you do other than building Software and Websites? 💁‍♂️</summary>
   <ul>
     <li>I  always read  tech blogs ,learn about new Technologies and read about the enterprenaur</li>
-    <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
+    <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Photoshop and canva.</li>
     <li>Whenever I am free, I read about international relations in all the countries of the world.  i try to get some knowledge from them.</li>
   </ul>
 </details>
