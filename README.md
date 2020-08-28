@@ -1,12 +1,12 @@
 <h1>Hi, I am <a href="https://github.com/vijaygehlot">Vijay Gehlot</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/vijaygehlot/vijaygehlot/blob/master/my_image.JPG" width="230" />
 
-<a href="https://www.linkedin.com/in/vijay-gehlot-669358120"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/vijaygehlot/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/vijay.gehlot.102/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:vijaygehlot208@gmail.com"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/vijaygehlot208"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/vijaygehlot208/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-gehlot-669358120"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/linkedin.png" width="20" /></a>
+<a href="https://github.com/vijaygehlot/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/github-logo.png" width="20" /></a>
+<a href="https://www.facebook.com/vijay.gehlot.102/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/facebook.png" width="20" /></a>
+<a href="mailto:vijaygehlot208@gmail.com"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/google-plus.png" width="20" /></a>
+<a href="https://twitter.com/vijaygehlot208"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/twitter.png" width="20" /></a>
+<a href="https://www.instagram.com/vijaygehlot208/"><img src="https://github.com/vijaygehlot/vijaygehlot/blob/master/logos/instagram.png" width="20" /></a>
 
 <h3>Languages & Tools 💻</h3>
 
