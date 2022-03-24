@@ -29,7 +29,7 @@
 </ul>
 </details>
 <details>
-<summary>Full Stack Developer 🍥</summary>
+<summary>Rect Native Developer 🍥</summary>
   <ul>
     <li><a href="https://github.com/vijaygehlot/feedshub">FeedsHub</a></li>
     <li><a href="https://github.com/vijaygehlot/trello-app-clone">Trello-App Clone</a></li>
@@ -39,7 +39,7 @@
   </ul>
 </details>
 <details>
-  <summary>Software Developer at <a href="https://kmindz.io/">KonnectedMindz</a> <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/blockchain-logo-png-transparent.png"></code> </summary>
+  <summary>React Native Developer at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/blockchain-logo-png-transparent.png"></code> </summary>
   <ul>
     <li>Working as Frontend Developer and I Create of Remittance Software. A remittance is a transfer of money, often by a foreign worker to an individual in their home country. Money sent home by migrants competes with international aid as one of the largest financial inflows to developing countrie.</li>
     <li> Developing a PHR-Admin System. It;s a ecosystem where patients are the true owners of their clinical record and can access this information at anytime, anywhere. We envision to contribute to the world’s health and medical industry by creating an ecosystem that would make the patient’s health data record process distributed through a decentralized blockchain so that anyone can get access to their medical record without having to go through the bureaucratic hassles.</li>
