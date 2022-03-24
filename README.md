@@ -20,7 +20,7 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Rect Developer 🍥</summary>
+<summary>React Developer 🍥</summary>
   <ul>
     <li><a href="https://github.com/vijaygehlot/feedshub">FeedsHub</a></li>
     <li><a href="https://github.com/vijaygehlot/trello-app-clone">Trello-App Clone</a></li>
@@ -29,7 +29,6 @@
     <li><a href="https://mypractice-webapp.herokuapp.com/">Static Web Page</a></li>
     <li><a href="https://github.com/vijaygehlot/theme-UI">Theme UI</a></li>
     <li><a href="https://github.com/vijaygehlot/PodShare-UI">PodShare UI</a></li>
-    <li>Many more on and out of Github...</li>
    
   </ul>
 </details>
