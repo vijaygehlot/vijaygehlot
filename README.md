@@ -42,7 +42,7 @@
   <summary>React Native Developer at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code><img height="20" src="https://www.tenderdetail.com/ExpoGallery/Organization/399/Fairfest-Media-Limited.jpg"></code> </summary>
   <ul>
     <li>I work on a smart short video App that is <a href="https://play.google.com/store/apps/details?id=com.getdailybrief.tv">Sphere</a>. Sphere is a short video app that gets you top news stories & interesting insights, from top media outlets in India and around the world</li>
-    <li>I have on work on brief News App that is DailyBrief.DailyBrief gets you news, views and ideas that matter, in brief, from top journalists, experts, and thought-leaders in India and around the world.</li>
+    <li>I have on work on brief News App that is <a href="https://play.google.com/store/apps/details?id=in.ideastoday">DailyBrief</a>.DailyBrief gets you news, views and ideas that matter, in brief, from top journalists, experts, and thought-leaders in India and around the world.</li>
     <li> work on so many portals of Fairfest media company which is used in organises the reputed TTF and OTM international travel fairs.
 </li>
   </ul>
