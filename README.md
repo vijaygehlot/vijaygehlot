@@ -41,8 +41,10 @@
 <details>
   <summary>React Native Developer at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code><img height="20" src="https://www.tenderdetail.com/ExpoGallery/Organization/399/Fairfest-Media-Limited.jpg"></code> </summary>
   <ul>
-    <li>Working as Frontend Developer and I Create of Remittance Software. A remittance is a transfer of money, often by a foreign worker to an individual in their home country. Money sent home by migrants competes with international aid as one of the largest financial inflows to developing countrie.</li>
-    <li> Developing a PHR-Admin System. It;s a ecosystem where patients are the true owners of their clinical record and can access this information at anytime, anywhere. We envision to contribute to the world’s health and medical industry by creating an ecosystem that would make the patient’s health data record process distributed through a decentralized blockchain so that anyone can get access to their medical record without having to go through the bureaucratic hassles.</li>
+    <li>I work on a smart short video App that is Sphere. Sphere is a short video app that gets you top news stories & interesting insights, from top media outlets in India and around the world</li>
+    <li>I have on work on brief News App that is DailyBrief.DailyBrief gets you news, views and ideas that matter, in brief, from top journalists, experts, and thought-leaders in India and around the world.</li>
+    <li> work on so many portals of Fairfest media company which is used in organises the reputed TTF and OTM international travel fairs.
+</li>
   </ul>
 </details>
 
