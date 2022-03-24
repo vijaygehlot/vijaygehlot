@@ -20,22 +20,17 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Frontend Develoer 💻</summary>
-<ul>
-  <li><a href="https://mypractice-webapp.herokuapp.com/">Static Web Page</a></li>
-  <li><a href="https://github.com/vijaygehlot/theme-UI">Theme UI</a></li>
-  <li><a href="https://github.com/vijaygehlot/PodShare-UI">PodShare UI</a></li>
-  <li>Many more on and out of Github...</li>
-</ul>
-</details>
-<details>
-<summary>Rect Native Developer 🍥</summary>
+<summary>Rect Developer 🍥</summary>
   <ul>
     <li><a href="https://github.com/vijaygehlot/feedshub">FeedsHub</a></li>
     <li><a href="https://github.com/vijaygehlot/trello-app-clone">Trello-App Clone</a></li>
     <li><a href="https://github.com/vijaygehlot/emitra-seva-web-Application">Emitra Seva Application</a></li>
     <li><a href="https://github.com/vijaygehlot/Photofie">Photofie</a></li>
+    <li><a href="https://mypractice-webapp.herokuapp.com/">Static Web Page</a></li>
+    <li><a href="https://github.com/vijaygehlot/theme-UI">Theme UI</a></li>
+    <li><a href="https://github.com/vijaygehlot/PodShare-UI">PodShare UI</a></li>
     <li>Many more on and out of Github...</li>
+   
   </ul>
 </details>
 <details>
