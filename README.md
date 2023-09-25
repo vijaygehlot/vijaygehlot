@@ -34,7 +34,7 @@
 </details>
 <details>
   <summary>System Engineer(Frontend) at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code>
-![original](https://github.com/vijaygehlot/tradetonApp/assets/26818479/ff6d912d-7b76-4716-b92f-c4242f3664a8)
+<img height="20" src="https://www.tenderdetail.com/ExpoGallery/Organization/399/Fairfest-Media-Limited.jpg">
 
 </code> </summary>
   <ul>
