@@ -19,8 +19,35 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <h3>What I do? 👨‍💻</h3>
+
+
 <details>
-<summary>React Developer 🍥</summary>
+  <summary>System Engineer(Frontend) at <a href="[https://fairfest.in/](https://www.gridlogic.in/)">Gridlogic.</a> <code>
+<img height="20" src="https://media.licdn.com/dms/image/C4E0BAQEpMLEXSs-UZA/company-logo_200_200/0/1636223028902/gridlogic_logo?e=2147483647&v=beta&t=x6QRQ4SIk3diinqM9veR-4HGaRh4xIiOJuDduWsP9Fg">
+
+</code> </summary>
+  <ul>
+    <li> <a href="https://www.tajrummy.com/">Taj Rummy</a> is a complete, elite and professional Rummy gaming website that strives to deliver the popular Indian version of the 13-card game into each of our players’ hands, hearts and homes. As such, we endeavour to provide a best-in-class experience that promises unlimited hours of fun, excitement and entertainment</li>
+    <li>
+     <a href="https://www.taj.games/">Taj Games</a> is an elite and professional all in one platform managed by Gridlogic Games Private Limited which brings popular and exciting cash games directly to the player anywhere and anytime. You can join any game or tournament for hours of fun and entertainment by simply signing up here for a free account.
+    </li>
+    
+  </ul>
+</details>
+<details>
+  <summary>Software Developer at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code>
+<img height="20" src="https://media.licdn.com/dms/image/C4E0BAQFoVSqgJUIw4w/company-logo_200_200/0/1631313248203?e=2147483647&v=beta&t=2vGEOwm6Ffp7bbo9x6oUDho1VEdhzHZPRkWA8hLHOxs">
+
+</code> </summary>
+  <ul>
+    <li>I work on a smart short video App that is <a href="https://play.google.com/store/apps/details?id=com.getdailybrief.tv">Sphere</a>. Sphere is a short video app that gets you top news stories & interesting insights, from top media outlets in India and around the world</li>
+    <li>I have on work on brief News App that is <a href="https://play.google.com/store/apps/details?id=in.ideastoday">DailyBrief</a>.DailyBrief gets you news, views and ideas that matter, in brief, from top journalists, experts, and thought-leaders in India and around the world.</li>
+    <li> work on so many portals of Fairfest media company which is used in organises the reputed TTF and OTM international travel fairs.
+</li>
+  </ul>
+</details>
+<details>
+<summary>Other Projects🍥</summary>
   <ul>
     <li><a href="https://github.com/vijaygehlot/feedshub">FeedsHub</a></li>
     <li><a href="https://github.com/vijaygehlot/trello-app-clone">Trello-App Clone</a></li>
@@ -32,19 +59,6 @@
    
   </ul>
 </details>
-<details>
-  <summary>System Engineer(Frontend) at <a href="https://fairfest.in/">Gridlogic.</a> <code>
-<img height="20" src="https://media.licdn.com/dms/image/C4E0BAQEpMLEXSs-UZA/company-logo_200_200/0/1636223028902/gridlogic_logo?e=2147483647&v=beta&t=x6QRQ4SIk3diinqM9veR-4HGaRh4xIiOJuDduWsP9Fg">
-
-</code> </summary>
-  <ul>
-    <li>I work on a smart short video App that is <a href="https://play.google.com/store/apps/details?id=com.getdailybrief.tv">Sphere</a>. Sphere is a short video app that gets you top news stories & interesting insights, from top media outlets in India and around the world</li>
-    <li>I have on work on brief News App that is <a href="https://play.google.com/store/apps/details?id=in.ideastoday">DailyBrief</a>.DailyBrief gets you news, views and ideas that matter, in brief, from top journalists, experts, and thought-leaders in India and around the world.</li>
-    <li> work on so many portals of Fairfest media company which is used in organises the reputed TTF and OTM international travel fairs.
-</li>
-  </ul>
-</details>
-
 <details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
