@@ -34,7 +34,7 @@
 </details>
 <details>
   <summary>System Engineer(Frontend) at <a href="https://fairfest.in/">Gridlogic.</a> <code>
-<img height="20" src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/273d77a0-dde8-406f-8104-153dead8a429/original.png">
+<img height="20" src="https://media.licdn.com/dms/image/C4E0BAQEpMLEXSs-UZA/company-logo_200_200/0/1636223028902/gridlogic_logo?e=2147483647&v=beta&t=x6QRQ4SIk3diinqM9veR-4HGaRh4xIiOJuDduWsP9Fg">
 
 </code> </summary>
   <ul>
