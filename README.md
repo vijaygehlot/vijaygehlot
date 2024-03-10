@@ -33,8 +33,8 @@
   </ul>
 </details>
 <details>
-  <summary>System Engineer(Frontend) at <a href="https://fairfest.in/">Fairfest Media Ltd.</a> <code>
-<img height="20" src="https://www.tenderdetail.com/ExpoGallery/Organization/399/Fairfest-Media-Limited.jpg">
+  <summary>System Engineer(Frontend) at <a href="https://fairfest.in/">Gridlogic.</a> <code>
+<img height="20" src="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/273d77a0-dde8-406f-8104-153dead8a429/original.png">
 
 </code> </summary>
   <ul>
